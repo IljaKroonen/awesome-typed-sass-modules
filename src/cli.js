@@ -7,7 +7,7 @@ import cosmiconfig from 'cosmiconfig';
 import fs from 'fs';
 import glob from 'glob';
 import path from 'path';
-import sass from 'node-sass';
+import sass from 'dart-sass';
 import yargs from 'yargs';
 
 const pkg = require('../package.json');
